@@ -12,7 +12,7 @@ Welcome to my profile on Github
   <img align="center" alt="Adriano-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />   
  <img align="center" alt="Adriano-Mysql" height="40" width="50" src="https://img.icons8.com/?size=512&id=20909&format=png" />   
   
-     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://https://github.com/AdrianoPinheiro86/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
